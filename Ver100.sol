@@ -2,7 +2,6 @@
 
 pragma solidity 0.8;
 
-// import "@openzeppelin/contracts/governance/utils/Votes.sol";
 // ["0xdD870fA1b7C4700F2BD7f44238821C26f7392148","0x583031D1113aD414F02576BD6afaBfb302140225"]
 // role senatdao: 0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2 = 0x999bf575
 
