@@ -1,2 +1,3 @@
 # Election
-election simple
+
+*Each update create a new Version, like* -> **Ver1xx.sol**
