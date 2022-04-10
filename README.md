@@ -4,6 +4,7 @@
 
 ---
 
+### Generate & Compaire role: 
 ```solidity
 contract Helper {
     // senat multiuser address
@@ -12,7 +13,7 @@ contract Helper {
     }
 }
 ```
-role senatdao: `0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2` = `0x999bf575` 
+**role** senatdao: `0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2` = `0x999bf575` 
 
 #
 
