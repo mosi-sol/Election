@@ -1,6 +1,8 @@
 # Election
 
-*Each update create a new Version, like* -> **`Ver1xx.sol`**
+- *Each update create a new Version, like* -> **`Ver2xx.sol`**
+- type ver 1x not reacheable to upgrade, this is just for training how to logic work.
+- `Ver2xx.sol` is upgradable.
 
 ---
 
