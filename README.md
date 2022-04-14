@@ -4,7 +4,7 @@
 - type ver 1x not reacheable to upgrade, this is just for training how to logic work.
 - `Ver2xx.sol` is upgradable.
 
----
+#
 
 ### Generate & Compaire role: 
 ```solidity
@@ -17,7 +17,7 @@ contract Helper {
 ```
 **role** senatdao: `0xAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2` = `0x999bf575` 
 
-#
+---
 
 15-04-2022 friday live course
 
