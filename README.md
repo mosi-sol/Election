@@ -2,6 +2,10 @@
 **election** is important for *democracy* in the world. at all every where you can find usecase, for example:
 - facebook made by the idea for voting system between two different chicks... :) {by this idea zakerburg start to grow}
 
+##
+> choose good word, make good world
+##
+
 ### Info:
 - *Each update create a new Version, like* -> **`Ver2xx.sol`**
 - type ver 1x not reacheable to upgrade, this is just for training how to logic work.
